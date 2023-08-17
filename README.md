@@ -1,9 +1,6 @@
-### Olá, eu sou o Paulo Gabriel!
+### Hi, I'm Paulo Gabriel!
 
-👨‍💻Trabalhando na Accenture como dev Front-End.<br>
-📚Estudando ADS na SPTECH
-
-
+Accenture 💜.<br>
 
 ##
 
