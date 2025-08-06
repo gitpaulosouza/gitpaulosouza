@@ -1,6 +1,7 @@
-### Hi, I'm Paulo Gabriel!
+### Oi, eu sou o Paulo Gabriel!
 
-Accenture 💜.<br>
+
+Como desenvolvedor mobile com expertise em Flutter, possuo experiência comprovada em projetos de grande escala, com destaque para a atuação em iniciativas que alcançam mais de 100 mil usuários ativos. Minha prioridade, além do desenvolvimento de código, é a resolução de problemas, com ênfase na compreensão das necessidades do cliente para oferecer soluções intuitivas, de alto desempenho e com sustentabilidade.<br>
 
 ##
 
